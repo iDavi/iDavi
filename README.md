@@ -1,3 +1,1 @@
-davi <br>
-
-[![iDavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDavi)](https://github.com/anuraghazra/github-readme-stats)
+davi 
