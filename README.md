@@ -1,3 +1,3 @@
 davi
 
-tudo aqui é horrivel e nao tem qualidade peço desculpas
+vc nao vai ver nenhum codigo bom por aqui infelizmente
