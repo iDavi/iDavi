@@ -1,0 +1,33 @@
+{
+  "type": "normal",
+  "fileName": "profile-red.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#1f1113",
+  "strongColor": "#991b1b",
+  "weakColor": "#8c6b70",
+  "radarColor": "#dc2626",
+  "growingAnimation": true,
+  "contribColors": [
+    "#f3f4f6",
+    "#fecaca",
+    "#f87171",
+    "#dc2626",
+    "#991b1b"
+  ],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0f0506",
+    "foregroundColor": "#fff1f2",
+    "strongColor": "#ff6b6b",
+    "weakColor": "#b8969b",
+    "radarColor": "#ff4d4f",
+    "growingAnimation": true,
+    "contribColors": [
+      "#291316",
+      "#7f1d1d",
+      "#b91c1c",
+      "#ef4444",
+      "#ff6b6b"
+    ]
+  }
+}
